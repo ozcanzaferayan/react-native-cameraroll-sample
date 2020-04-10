@@ -37,6 +37,10 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Fotoğraf görüntüleme için dosya izni vermeniz gereklidir.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Fotoğraflarınızın kaydedilebilmesi için izniniz gereklidir.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
 	<key>UILaunchStoryboardName</key>
